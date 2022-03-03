@@ -1,0 +1,16 @@
+.brown-div{
+    display: flex;
+    justify-content: space-between;
+
+}
+.ul{
+    display: flex;
+    list-style: none;
+    justify-content: safe space-around;
+
+}
+
+
+
+margin:0;
+padding:0;

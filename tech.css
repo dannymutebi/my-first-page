@@ -1,0 +1,44 @@
+input{
+      padding: 7px
+        border-radius:10px;
+    
+    
+     fontsize:400px; 
+     color:white;
+}
+
+     .coffee brown-div {
+        background color:red rgb(72,23,9)
+    }
+    .brown-div{
+        display:flex;
+        justify-content:space-between;
+        padding:0 100px : border-bottom:15px solid green.
+    
+        padding-right:  20px:
+        color:white
+        border:0;
+    }
+    button{
+        background-color: red;
+        color: white;
+        border: 0;
+        }
+        .blue-div{
+            background-color: black;
+    
+            color:white;
+            font-size: 30px;
+            width: 100%;
+            justify-content:space-between;
+        }
+          li{  
+          
+             list-style:none;
+        
+          }
+
+    body{
+        padding:0;
+        margin:0;
+    }
